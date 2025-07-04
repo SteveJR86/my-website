@@ -2,6 +2,9 @@
 ## Purpose
 The plan for the website is to give me a place to show my work, create a resource of useful links and somewhere to blog.
 
+## Location
+Site is currently hosted on [netlify](https://idyllic-panda-edae7a.netlify.app)
+
 ## Tech Stack
 Astro
 
