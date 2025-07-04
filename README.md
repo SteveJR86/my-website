@@ -1,5 +1,6 @@
 # My Website
 ## Purpose
+The plan for the website is to give me a place to show my work, create a resource of useful links and somewhere to blog.
 
 ## Tech Stack
 Astro
@@ -18,15 +19,15 @@ To build the app for deployment use:
 npm run build
 ```
 ## Progress
-- Create git repo
-- Update README.md
-- Create skelton Astro project
+- Created git repo
+- Updated README.md
+- Created skelton Astro project
+- Deployed to netlify
+- Create placeholder home, portfolio, blog index and useful links pages.
 
 ## To Do
-1. Deploy to netlify.
-2. Create placeholder home, portfolio, blog index and useful links pages.
-3. Create placeholder blog entry.
-4. Style pages.
-5. Populate homepage content.
-6. Populate portfolio page.
-7. Write first blog post. 
+1. Create placeholder blog entry.
+2. Style pages.
+3. Populate homepage content.
+4. Populate portfolio page.
+5. Write first blog post.
